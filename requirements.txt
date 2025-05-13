@@ -1,0 +1,9 @@
+langchain==0.3.18
+langchain-community>=0.3.1,<0.4.0
+langchain-core>=0.3.34  
+langchain-openai==0.2.14
+embedchain==0.1.126
+crewai==0.102.0
+crewai-tools==0.36.0
+pydantic>=2.10.6
+mistralai==0.4.2 
