@@ -30,7 +30,7 @@ from mistralai import Mistral
 #)
 
 
-dotenv.load_dotenv()
+#dotenv.load_dotenv()
 os.environ['OPENAI_API_KEY']=os.getenv("OPENAI_API_KEY")
 
 
