@@ -6,4 +6,7 @@ The project focuses on understanding the sentiment of users with mental health d
 
 **Run the crew**
 - ```python sentiment_emotion.py```
+
+**For the execution of the crew, Execute using crew_format folder.**
+- ```python main.py```
    
